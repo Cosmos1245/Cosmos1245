@@ -19,7 +19,7 @@ I'm actively looking to collaborate with other developers on full-stack web appl
 - Email: kishorerames1245@gmail.com
 - LinkedIn: [Kishore R](https://www.linkedin.com/in/kishore-r1245?)
 
-  My project 
+💼 My project 
 -Link:https://universal-dynamics-motors.netlify.app
 
 😄 Pronouns
