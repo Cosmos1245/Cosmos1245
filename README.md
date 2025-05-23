@@ -21,7 +21,7 @@ Feel free to reach out if you're interested in working together! 🚀
 
 ## 📫 How to reach me  
 - 📧 Email: [kishorerames1245@gmail.com](mailto:kishorerames1245@gmail.com)  
-- 🔗 LinkedIn: [Kishore R](https://www.linkedin.com/in/kishore-r1245?)  
+- 🔗 LinkedIn: [Kishore R](https://www.linkedin.com/in/kishore-r1245)  
 
 ## 💼 My Projects  
 🔗 **Universal Dynamics Motors** - [View Project](https://universal-dynamics-motors.netlify.app)  
