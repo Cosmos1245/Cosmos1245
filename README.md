@@ -58,3 +58,5 @@ I love **solving complex problems** and always try to build a project **before m
 
 ## 📊 Visitor Count  
 ![Visitor Count](https://profile-counter.glitch.me/Cosmos1245/count.svg)  
+
+![Visitor Count](https://count.getloli.com/get/@Cosmos1245?theme=rule34)
